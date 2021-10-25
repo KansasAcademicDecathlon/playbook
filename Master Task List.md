@@ -34,9 +34,9 @@
 ## State only
 
 - [ ] Conduct & Release forms
-- [ ] Advance Essay Instructions
-- [ ] Send out scholarships
-- [ ] Fill out Nationals Intent to Participate & State Competition Results Form
 - [ ] Arrange reception treat
+- [ ] Advance Essay Instructions
 - [ ] Board Meeting Agenda
 - [ ] Coaches Meeting Agenda
+- [ ] Fill out Nationals Intent to Participate & State Competition Results Form
+- [ ] Send out scholarships
