@@ -39,4 +39,4 @@
 - [ ] Board Meeting Agenda
 - [ ] Coaches Meeting Agenda
 - [ ] Fill out Nationals Intent to Participate & State Competition Results Form
-- [ ] Send out scholarships
+- [ ] Send out [scholarships](Scholarships.md)
