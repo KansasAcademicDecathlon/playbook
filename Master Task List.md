@@ -1,4 +1,5 @@
 # Master Task List
+
 - [ ] Determine Venue
 - [ ] Registration Deadline
 - [ ] Create registration form
@@ -31,6 +32,7 @@
 - [ ] Send out awards
 
 ## State only
+
 - [ ] Conduct & Release forms
 - [ ] Advance Essay Instructions
 - [ ] Send out scholarships
