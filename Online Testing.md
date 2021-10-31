@@ -1,7 +1,7 @@
 # Master Task List
 
-- [ ] Registration Deadline
-- [ ] Create registration form
+- [ ] Create [registration form](Registration.md)
+- [ ] Set Registration Deadline
 - [ ] Order plaques
 - [ ] Order ribbons
 - [ ] Registration reminder email
