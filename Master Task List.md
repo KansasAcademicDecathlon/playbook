@@ -1,6 +1,8 @@
 # Master Task List
-
+- [ ] Determine competition dates (At the Coaches Meeting of the previous year)
+- [ ] Sign USAD Charter
 - [ ] Determine Venue
+- [ ] Contact USAD to set up online testing
 - [ ] Registration Deadline
 - [ ] Create registration form
 - [ ] Super quiz moderator
@@ -13,7 +15,7 @@
 - [ ] Music CDs
 - [ ] Math scratch paper
 - [ ] Buy bottle water
-- [ ] Buy refreshments
+- [ ] Buy judges refreshments
 - [ ] Order coffee
 - [ ] Print rosters
 - [ ] Team packets
