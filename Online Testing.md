@@ -2,7 +2,7 @@
 
 - [ ] Create [registration form](Registration.md)
 - [ ] Set Registration Deadline
-- [ ] Order plaques
+- [ ] Order [plaques](Awards.md#sample-plaque-order)
 - [ ] Order ribbons
 - [ ] Registration reminder email
 - [ ] Reimbursement Request

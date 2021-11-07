@@ -1,4 +1,12 @@
-# Sample Plaque Order
+# Awards
+
+## Plaques
+
+The 1st, 2nd, and 3rd place teams of Super Quiz receive plaques. Those are the only plaques awarded at the regional scrimmage.
+The 1st, 2nd, and 3rd place teams of the state competition receive plaques.
+Missouri participates in our state competition as there is only one school participating. They automatically receive a plaque.
+
+### Sample Plaque Order
 
 I'd like to order the following plaques:
 
