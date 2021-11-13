@@ -9,11 +9,11 @@
 - [ ] Import participating schools into USAD online testing system
 - [ ] Registration reminder email
 - [ ] Import registered students into USAD online testing system
-- [ ] Reimbursement Request?
 - [ ] Send out results
 - [ ] Send checks to Bruce
 - [ ] Missing payment follow up
 - [ ] Send out awards
+- [ ] Reimbursement Request for shipping
 
 ## State only
 
@@ -28,20 +28,20 @@
 ### School Information File
 
 See <https://usad.enlyght.com/School%20Import%20File%20Example.csv> for an example.
-Some schools who use a district wide domain for email (e.g. smsd.org).
-For those districts create a subdomain using the school name (e.g. @north.smsd.org).
+Some schools use a district-wide domain for email (e.g., smsd.org).
+For those districts, create a subdomain using the school name (e.g., @north.smsd.org).
 
 When creating CSV file using Excel, do not save as `CSV UTF8 (Comma delimitated) (*.csv)`.
 Use `CSV (Comma delimitated) (*.csv)` instead.
 
 The website importer errors out if a school already exists.
-Remove the exsting schools from the CSV to import.
+Remove the existing schools from the CSV to import.
 
 ### Student Team Information File
 
 See <https://usad.enlyght.com/Student%20Import%20File%20Example.csv> for an example.
-When creating the CSV file using Excel, save as `CSV (Comma delimitated) (*.csv)`.
-After importing the Student Team Information File, the scoring website will immpediately display the [School Access Information](#school-access-information).
+When creating the CSV file using Excel, save it as `CSV (Comma delimitated) (*.csv)`.
+After importing the Student Team Information File, the scoring website will immediately display the [School Access Information](#school-access-information).
 The website importer errors out if a student already exists
 Remove those students from the CSV to import.
 Passwords should not change after importing more students.

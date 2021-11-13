@@ -1,4 +1,5 @@
 # Master Task List
+
 - [ ] Determine competition dates (At the Coaches Meeting of the previous year)
 - [ ] Sign USAD Charter
 - [ ] Determine Venue
