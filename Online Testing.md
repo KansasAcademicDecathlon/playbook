@@ -4,7 +4,7 @@
 - [ ] Contact USAD to confirm access to online testing
 - [ ] Create [registration form](Registration.md)
 - [ ] Set Registration Deadline
-- [ ] Order [plaques](Awards.md#sample-plaque-order)
+- [ ] Order [plaques](Awards.md#plaques)
 - [ ] Order ribbons
 - [ ] Import participating schools into USAD online testing system
 - [ ] Registration reminder email
