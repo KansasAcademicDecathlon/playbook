@@ -25,6 +25,18 @@
 
 ## USAD Online Testing
 
+### Requesting access to online testing
+
+Contact the current USAD Testing Director.
+See <https://usad.org/About/Contact-Us.aspx> for contact information.
+Ask to set up Kansas object tests and essays online
+for the day of the competition.
+Ask for a practice round the week before the competition.
+Determine if the students are testing together in a room with a proctor or
+testing independently and remotely.
+If students are not testing with a proctor,
+the Testing Director replaces the listening questions with non-listening questions.
+
 ### School Information File
 
 See <https://usad.enlyght.com/School%20Import%20File%20Example.csv> for an example.
