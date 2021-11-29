@@ -40,7 +40,6 @@ Sample Plaque Order:
 > Missouri Academic Decathlon
 > February 1, 2020
 >
->
 > 6x8
 >
 > 2nd Place

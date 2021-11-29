@@ -8,9 +8,9 @@ repos:
     -   id: check-added-large-files
     -   id: end-of-file-fixer
     -   id: trailing-whitespace
--   repo: https://github.com/markdownlint/markdownlint/
-    rev: v0.11.0
+-   repo: https://github.com/jackdewinter/pymarkdown
+    rev: b5e8b3d95eb6b2ed97fce4e3a0aa076dc02bbc36
     hooks:
-    -   id: markdownlint
+    -   id: pymarkdown
         # Limiting the line length makes editing difficult.
-        args: [-r ~MD013]
+        args: [-d, md013, --disable-version, scan]
