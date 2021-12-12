@@ -1,7 +1,7 @@
 # Master Task List
 
 - [ ] Sign USAD Charter
-- [ ] Contact USAD to confirm access to online testing
+- [ ] [Contact USAD to confirm access to online testing](#requesting-access-to-online-testing)
 - [ ] Create [registration form](Registration.md)
 - [ ] Set Registration Deadline
 - [ ] Order [plaques](Awards.md#plaques)
@@ -9,7 +9,13 @@
 - [ ] Import participating schools into USAD online testing system
 - [ ] Registration reminder email
 - [ ] Import registered students into USAD online testing system
-- [ ] Send out results
+- [ ] Edit test instructions from USAD to include state director contact information
+- [ ] Send out test instructions with activation keys to coaches
+- [ ] [Download Objective Ansers & Keys](#download-objective-answers-and-keys)
+- [ ] [Download Essays](#download-essays)
+- [ ] [Score Essays](#scoring-essays)
+- [ ] [Set up a contest in the scoring software](ScoringSoftware.md#setting-up-a-contest)
+- [ ] [Generate and send out reports](ScoringSoftware.md#generating-reports)
 - [ ] Send checks to Bruce
 - [ ] Missing payment follow up
 - [ ] Send out awards
@@ -36,6 +42,9 @@ Determine if the students are testing together in a room with a proctor or
 testing independently and remotely.
 If students are not testing with a proctor,
 the Testing Director replaces the listening questions with non-listening questions.
+
+A few weeks before the competition, USAD will email Word documents with instructions.
+The instrucitons contain activation keys for the objective tests and the essay.
 
 ### School Information File
 
@@ -67,3 +76,44 @@ Compose an email to each coach with their respective list of names, usernames, a
 Edit the Essay, Practice Test Online, and Object instructions to add your name and phone number where highlighted.
 Attach the *KS-Regional Essay Instructions.docx*, *KS-Practice Test Online Instructions.docx*, and *KS-Regional Objective Instructions.docx* to the email.
 Suggest to the coaches they arrange a time to practice with their students the week of the competition.
+
+### Download Objective Answers and Keys
+
+- From the USAD Testing website, click on *Test Export SS*.
+- Enter the activation key from the *Objective Test Online Instructions* Word document for USAD.
+- From the popup windows, click *Export Answer Key* and *Export Student Answers*.
+
+These files are imported into the scoring software.
+
+### Download Essays
+
+- From the USAD Testing website, click on *Essay Menu*.
+- Enter the activation key from the *Online Essay Instructions* Word document from USAD.
+- Click on *Essay List*.
+- Click the *Print All Essays* button.
+- The downloaded text file contains all the essays.
+- Open the text file in Word.
+- Insert page breakes between each essay.
+- Add page numbers in the header and footer.
+The page number ensures multi-page essays stay together.
+- Print the essays single sided for grading.
+
+### Scoring Essays
+
+The essay judges can use the offical USAD Essay Evaluation form and the results collected via the Apperson scanner software.
+
+The opther option is to manually record scores on a sheet of paper and transcribe them into the format expected by the Scoring Software.
+
+```CSV
+E,StudentID,filler,Judge Number,Score1,Score2,filler,filler
+```
+
+Example
+
+```CSV
+E,0101,,2,55,79,0,0
+E,1402,,2,83,45,0,0
+E,0409,,1,77,82,0,0
+```
+
+Ensure that each score has a unique StudentID and Judge Number combination. It is easy to reuse the same Judge Number for two different scores.
