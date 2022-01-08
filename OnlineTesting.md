@@ -23,6 +23,7 @@
 
 ## State only
 
+- [ ] Send out Board Meeting Notice
 - [ ] Conduct & Release forms
 - [ ] Board Meeting Agenda
 - [ ] Coaches Meeting Agenda
