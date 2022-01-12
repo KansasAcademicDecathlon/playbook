@@ -26,7 +26,7 @@ Leave all other fields with their default values.
 1. Click the *Update* button.
 1. Open the USAD Scoring Software on the PC.
 1. At the *Login* window, do not enter credentials yet. Click the *Download event data* button.
-1. From the File Download window, enter credentials and click *Refresh Constest List from Online* button.
+1. From the File Download window, enter credentials and click *Refresh Contest List from Online* button.
 1. From the *Contest to Download for:* list, select the newly created contest.
 1. Under the *Select Data to Download:* list of options, check *Credentials* and *Contest*.
 1. Click *Import from Cloud*. If there is an error, check that the contest is updated online.
@@ -46,23 +46,23 @@ The software allows for uploading the file multiple times without creating dupli
 1. Close the *Import Changes* window by clicking on the icon next to the *File* menu and clicking *Close*.
 1. From the *Setup menu*, select *Test*.
 1. The Essay test is missing because it was not part of the *answerkeyonline.txt* file. Click *Add New* to add the test.
-    * Name: Essay
-    * Number: 7
-    * Test Type: Essay
-    * Scanner: Apperson
-    * Abbreviation: Essay
-    * Total Questions: 2
-    * Total Points: 1000
-    * Points Per Question: 1000
-    * Multiplier: 1.0
+   * Name: Essay
+   * Number: 7
+   * Test Type: Essay
+   * Scanner: Apperson
+   * Abbreviation: Essay
+   * Total Questions: 2
+   * Total Points: 1000
+   * Points Per Question: 1000
+   * Multiplier: 1.0
 1. Close the *Test Page* window by clicking on the icon next to the *File* menu and clicking *Close*.
 
 ## Importing Results
 
 1. Open the USAD Scoring Software on the PC and login. Verify the current contest is listed as the title of the window.
 1. From the *Setup* menu, select *Import*.
-1. From the *Import Changes* screen, check the *Objective Ansers* box.
-1. Click the *Browse* button, select the *objectiv.txt* [downloaded from the USAD Testing website](./OnlineTesting.md#download-objective-answers-and-keys), and click the *Upolad* button.
+1. From the *Import Changes* screen, check the *Objective Answers* box.
+1. Click the *Browse* button, select the *objectiv.txt* [downloaded from the USAD Testing website](./OnlineTesting.md#download-objective-answers-and-keys), and click the *Upload* button.
 1. Check the *Essay Answers* box and repeat with the *Essay.txt* file. See [Scoring Essays](./OnlineTesting.md#scoring-essays) for details.
 
 ## Generating Reports
@@ -71,7 +71,7 @@ The software allows for uploading the file multiple times without creating dupli
 
 1. Open the USAD Scoring Software on the PC and login. Verify the current contest is listed as the title of the window.
 1. From the *Scoring* menu, select *Scores Maintenance*.
-1. Click the *Find Divengents* button. This must be performed if any essay scores are changed.
+1. Click the *Find Divergence* button. This must be performed if any essay scores are changed.
 1. Close the *Missing/Divergent Scores* window by clicking on the icon next to the *File* menu and clicking *Close*.
 1. From the *Reports* menu, select *Post-Competition*.
 1. From the *Team Reports* section, select *Overall Team Scores*, and click *Export By Team*.
@@ -79,4 +79,4 @@ The software allows for uploading the file multiple times without creating dupli
 1. From the *Individual Ranking* section, select *Top Scorers By Event*, and click *Export By Individual*.
 1. From the *Team Comprehensive* section, select *Comprehensive Final Team Report*, and click *Export by Team*.
 
-Review each *Comprehensive Final Team Report* for discrepencies before sending out to coaches.
+Review each *Comprehensive Final Team Report* for discrepancies before sending out to coaches.

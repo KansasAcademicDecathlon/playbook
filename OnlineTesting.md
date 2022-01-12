@@ -11,7 +11,7 @@
 - [ ] Import registered students into USAD online testing system
 - [ ] Edit test instructions from USAD to include state director contact information
 - [ ] Send out test instructions with activation keys to coaches
-- [ ] [Download Objective Ansers & Keys](#download-objective-answers-and-keys)
+- [ ] [Download Objective Answers & Keys](#download-objective-answers-and-keys)
 - [ ] [Download Essays](#download-essays)
 - [ ] [Score Essays](#scoring-essays)
 - [ ] [Set up a contest in the scoring software](ScoringSoftware.md#setting-up-a-contest)
@@ -44,7 +44,7 @@ If students are not testing with a proctor,
 the Testing Director replaces the listening questions with non-listening questions.
 
 A few weeks before the competition, USAD will email Word documents with instructions.
-The instrucitons contain activation keys for the objective tests and the essay.
+The instructions contain activation keys for the objective tests and the essay.
 
 ### School Information File
 
@@ -93,16 +93,16 @@ These files are imported into the scoring software.
 - Click the *Print All Essays* button.
 - The downloaded text file contains all the essays.
 - Open the text file in Word.
-- Insert page breakes between each essay.
+- Insert page breaks between each essay.
 - Add page numbers in the header and footer.
 The page number ensures multi-page essays stay together.
 - Print the essays single sided for grading.
 
 ### Scoring Essays
 
-The essay judges can use the offical USAD Essay Evaluation form and the results collected via the Apperson scanner software.
+The essay judges can use the official USAD Essay Evaluation form and the results collected via the Apperson scanner software.
 
-The opther option is to manually record scores on a sheet of paper and transcribe them into the format expected by the Scoring Software.
+The other option is to manually record scores on a sheet of paper and transcribe them into the format expected by the Scoring Software.
 
 ```CSV
 E,StudentID,filler,Judge Number,Score1,Score2,filler,filler
