@@ -9,8 +9,8 @@ repos:
     -   id: end-of-file-fixer
     -   id: trailing-whitespace
 -   repo: https://github.com/jackdewinter/pymarkdown
-    rev: b5e8b3d95eb6b2ed97fce4e3a0aa076dc02bbc36
+    rev:  0.9.4
     hooks:
     -   id: pymarkdown
         # Limiting the line length makes editing difficult.
-        args: [-d, md013, --disable-version, scan]
+        args: [-d, md013, scan]
