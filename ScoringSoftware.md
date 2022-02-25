@@ -30,7 +30,7 @@ Leave all other fields with their default values.
 1. From the *Contest to Download for:* list, select the newly created contest.
 1. Under the *Select Data to Download:* list of options, check *Credentials* and *Contest*.
 1. Click *Import from Cloud*. If there is an error, check that the contest is updated online.
-1. Click *Close.
+1. Click *Close*.
 1. At the *Login* window, enter credentials and click *Submit*.
 1. At the *Select the Contest* window, select the recently created contest and click *Submit*.
 1. From the *Setup* menu, select *Import*.

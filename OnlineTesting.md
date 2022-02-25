@@ -63,7 +63,7 @@ Remove the existing schools from the CSV to import.
 See <https://usad.enlyght.com/Student%20Import%20File%20Example.csv> for an example.
 When creating the CSV file using Excel, save it as `CSV (Comma delimitated) (*.csv)`.
 After importing the Student Team Information File, the scoring website will immediately display the [School Access Information](#school-access-information).
-The website importer errors out if a student already exists
+The website importer errors out if a student already exists.
 Remove those students from the CSV to import.
 Passwords should not change after importing more students.
 
@@ -116,4 +116,6 @@ E,1402,,2,83,45,0,0
 E,0409,,1,77,82,0,0
 ```
 
-Ensure that each score has a unique StudentID and Judge Number combination. It is easy to reuse the same Judge Number for two different scores.
+Ensure that each score has a unique StudentID and Judge Number combination.
+It is easy to reuse the same Judge Number for two different scores.
+Remember that some IDs have leading zeros.
