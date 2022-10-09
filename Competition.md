@@ -25,24 +25,35 @@
 
 ### Saturday
 
-* Bring in supplies to HQ
-* Verify all needed classrooms are unlocked
-* Hang signage on classroom doors with room names (Speech 1, Testing B, etc.)
-* Put supplies in objective testing rooms
-  * Test printouts
-  * Answer sheets
-  * Scratch paper for the math test
-  * Proctor instructions
-* Verify AV equipment of objective testing rooms is in working order
-* Move furniture in speech/interview rooms if necessary
-
+* 7:00 a.m. Setup
+  * Bring in supplies to HQ
+  * Verify all needed classrooms are unlocked
+  * Hang signage on classroom doors with room names (Speech 1, Testing B, etc.)
+  * Put supplies in objective testing rooms
+    * Test printouts for morning tests
+    * Answer sheets for morning tests
+    * Scratch paper for the math test
+    * Proctor instructions
+  * Verify AV equipment of objective testing rooms is in working order
+  * Move furniture in speech/interview rooms if necessary
+    * Make a note of the original arrangement
+  * Hang banner on registration table
+  * Put registration packets on registration table
 * 8:00 a.m. Judges Training
 * 8:15 a.m. Team Registration
 * 9:00 a.m. – 10:45 a.m. Speech/Interview and Testing Session 1
+* Between sessions judges can return to the training room for refreshments
 * 11:00 a.m. – 1:00 p.m. Speech/Interview and Testing Session 2
 * Verify Super Quiz setup
   * Microphone check
   * Computer and projector check
 * 1:00 p.m. – 1:25 p.m. Lunch
+* During lunch put afternoon supplies in objective testing rooms
+  * Test printouts for afternoon tests
+  * Answer sheets for afternoon tests
+* Close out Speech/Interview rooms
+  * Check for leftover answer sheets
+  * Collect leftover supplies
+  * Move furniture back
 * 1:30 p.m. – 3:00 p.m. Testing Session 3
 * 3:30 p.m. Oral Super Quiz
