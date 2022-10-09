@@ -2,14 +2,14 @@
 # See https://pre-commit.com/hooks.html for more hooks
 repos:
 -   repo: https://github.com/pre-commit/pre-commit-hooks
-    rev: v4.1.0
+    rev: v4.3.0
     hooks:
     -   id: mixed-line-ending
     -   id: check-added-large-files
     -   id: end-of-file-fixer
     -   id: trailing-whitespace
 -   repo: https://github.com/jackdewinter/pymarkdown
-    rev:  0.9.4
+    rev:  v0.9.8
     hooks:
     -   id: pymarkdown
         # Limiting the line length makes editing difficult.
