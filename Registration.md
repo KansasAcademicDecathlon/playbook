@@ -9,7 +9,7 @@ The form contains the following information
 * The name of the competition (*Northeast Kansas Regional Scrimmage* or *State Competition*)
 * [Due Date](#due-date)
 * Instructions for filling out the sheet
-* School drop down box
+* School drop-down box
 * Costs
 * Address for sending checks (See [Payments](#payments))
 * A table with the following columns
@@ -45,10 +45,12 @@ The first table entry is the coach's name. The sheet automatically populates it 
 1. Compose an email with the subject *Regionals Registration Link* or *State Registration Link*
 1. Past the link in the body of the email.
 1. Address the email to the coach(es) of the school
-1. Send the email and repeat for the other schools
+1. Send the email and repeat it for the other schools
 
 After sending out all the individual emails, send out a group email to all the coaches stating, "You should have received a link to your school's registration just now."
-Add the schedule and other details for the day of the competition. Remind the coaches the GPA worksheets are due the day of the competition.
+Add the schedule and other details for the day of the competition.
+Remind the coaches the GPA worksheets are due the day of the competition.
+Students should bring an approved calculator, pencils, and a resumé or activities sheet. 
 
 ## Due Date
 
@@ -56,16 +58,32 @@ The due date is typically Monday before the competition for online testing. For 
 
 ## Costs
 
+### In-Person Competition
+
+Per decathlete costs
+* answer sheets
+* printed tests
+* lunch
+
+Shared costs
+* plaques for Super Quiz
+* plaques for the top three teams (state only)
+* refreshments for volunteers
+* ribbons
+* medals for state competition 
+
+### Online competition
+
 Online regional scrimmage does not require plaques (no Super Quiz). The only costs are for ribbons and their shipping. Kansas builds the online fee for testing into the registration fees for State.
 
-Online state competition requires money to cover the cost of online testing through USAD, [awards](Awards.md), and their shipping.
+Online state competition requires money to cover the cost of online testing through USAD, [awards](Awards.md), and shipping.
 
 ## Payment
 
-Payment is due the day of the competition.
+Payment is due on the day of the competition.
 Not all schools will pay on time.
 Some schools require an invoice before they can issue payment.
-Many schools are moving to credit/debit cards where possible to pay for activities.
+Many schools are moving to credit/debit cards to pay for activities.
 KSAD has a [Square](https://squareup.com/) account to generate invoices and accept payment via credit/debit cards.
 Keep track of how much each school owes and if they have paid.
 Some schools will need a reminder to send their payment.
