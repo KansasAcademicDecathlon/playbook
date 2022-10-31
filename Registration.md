@@ -50,7 +50,7 @@ The first table entry is the coach's name. The sheet automatically populates it 
 After sending out all the individual emails, send out a group email to all the coaches stating, "You should have received a link to your school's registration just now."
 Add the schedule and other details for the day of the competition.
 Remind the coaches the GPA worksheets are due the day of the competition.
-Students should bring an approved calculator, pencils, and a resumé or activities sheet. 
+Students should bring an approved calculator, pencils, and a resumé or activities sheet.
 
 ## Due Date
 
@@ -70,7 +70,7 @@ Shared costs
 * plaques for the top three teams (state only)
 * refreshments for volunteers
 * ribbons
-* medals for state competition 
+* medals for state competition
 
 ### Online competition
 

@@ -1,17 +1,42 @@
 # Master Task List
 
-- [ ] Determine competition dates (At the Coaches Meeting of the previous year)
+The tasks below are grouped by suggested due dates.
+
+## At the Coaches Meeting of the previous year
+
+- [ ] Determine competition dates
+
+## August
+
 - [ ] Sign USAD Charter
 - [ ] Determine Venue
 - [ ] Contact USAD to set up online testing
-- [ ] Registration Deadline
-- [ ] Create registration form
-- [ ] Super quiz moderator
-- [ ] Arrange Lunch
 - [ ] Order answer sheets
-- [ ] Dole out answer sheets
+- [ ] Shop for lunch options
+
+## T-2 weeks to competition
+
+- [ ] Registration Deadline
+- [ ] Create and send out [registration form](Registration.md)
+- [ ] Conduct & Release forms (State only)
+- [ ] Super quiz moderator
 - [ ] Print Tests
-- [ ] Judges packets - incl address capture sheet
+- [ ] Order plaques
+- [ ] Order ribbons
+- [ ] Arrange reception treat (State only)
+
+## T-10 days before competition
+
+- [ ] Registration reminder email
+- [ ] Advance Essay Instructions (State only)
+- [ ] Board Meeting Agenda (State only)
+- [ ] Coaches Meeting Agenda (State only)
+
+## T-1 day to competition
+
+- [ ] Dole out answer sheets
+- [ ] Split tests by room
+- [ ] Judges packets - including address capture sheet
 - [ ] Art DVDs
 - [ ] Music CDs
 - [ ] Math scratch paper
@@ -21,25 +46,21 @@
 - [ ] Print rosters
 - [ ] Team packets
 - [ ] Ask about Friday drop off
-- [ ] Order plaques
-- [ ] Order ribbons
-- [ ] Maps
+- [ ] Print Maps
 - [ ] Volunteer Information email
-- [ ] Registration reminder email
+- [ ] Purchase Super Quiz moderator gift
+
+## After competition
+
 - [ ] Reimbursement Request
 - [ ] Send out results
 - [ ] Pay for lunch
 - [ ] Send checks to Bruce
-- [ ] Missing payment follow up
-- [ ] Inventory answer sheets
 - [ ] Send out awards
 
-## State only
+## 1 week after competition
 
-- [ ] Conduct & Release forms
-- [ ] Arrange reception treat
-- [ ] Advance Essay Instructions
-- [ ] Board Meeting Agenda
-- [ ] Coaches Meeting Agenda
-- [ ] Fill out Nationals Intent to Participate & State Competition Results Form
-- [ ] Send out [scholarships](Scholarships.md)
+- [ ] Missing payment follow up
+- [ ] Inventory answer sheets
+- [ ] Fill out Nationals Intent to Participate & State Competition Results Form (State only)
+- [ ] Send out [scholarships](Scholarships.md) (State only)

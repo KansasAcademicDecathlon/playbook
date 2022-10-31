@@ -2,7 +2,7 @@
 
 ## Medals
 
-The top three scorers for each team recieve a plain medal.
+The top three scorers for each team receive a plain medal.
 
 For state, in addition to the above medals, the top three teams receive medals for all team members.
 Kansas schools get custom Kansas medals.
