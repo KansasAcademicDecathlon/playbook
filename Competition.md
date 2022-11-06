@@ -25,6 +25,7 @@
 
 ### Saturday
 
+* Pick up coffee en route to venue
 * 7:00 a.m. Setup
   * Bring in supplies to HQ
   * Verify all needed classrooms are unlocked

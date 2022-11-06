@@ -19,11 +19,16 @@ The tasks below are grouped by suggested due dates.
 - [ ] Registration Deadline
 - [ ] Create and send out [registration form](Registration.md)
 - [ ] Conduct & Release forms (State only)
-- [ ] Super quiz moderator
-- [ ] Print Tests
-- [ ] Order plaques
-- [ ] Order ribbons
+- [ ] Find a Super Quiz moderator
+- [ ] Print Tests. Recommend printing front and back. Pay for stapling.
+- [ ] Order [plaques](Awards.md#plaques)
+- [ ] Order [ribbons](Awards.md#ribbons)
 - [ ] Arrange reception treat (State only)
+- [ ] Replenish name tags. Recommend stacks of singles.
+- [ ] Buy notecards
+- [ ] Math scratch paper. Typically bright colored paper (Astrobrights).
+- [ ] Replenish blue painters tape for hanging signage
+- [ ] Replenish large (2") binder clips for team packets
 
 ## T-10 days before competition
 
@@ -34,19 +39,44 @@ The tasks below are grouped by suggested due dates.
 
 ## T-1 day to competition
 
-- [ ] Dole out answer sheets
-- [ ] Split tests by room
-- [ ] Judges packets - including address capture sheet
-- [ ] Art DVDs
-- [ ] Music CDs
-- [ ] Math scratch paper
+- [ ] Dole out objective answer sheets. Recommend bunches of 10 using paperclips.
+- [ ] Dole out tests by room by time. One morning pile and one afternoon pile per room.
+- [ ] Speech & Interview judges packets
+  - Address capture sheet
+  - Instructions/Script for head judge & timer
+  - Yellow timer flip-chart
+  - Speech & Interview schedule
+  - Impromptu topics
+  - Interview questions
+  - Sample Speech Evaluation Form
+  - Sample Interview Evaluation Form
+  - Procedure and Speech At A Glance
+  - Index cards, pencils, and a timer/phone
+- [ ] Create Art DVDs or USB flash drives
+- [ ] Create Music CDs or USB flash drives
+- [ ] Proctor instruction packets
+  - Instructions with test numbers and times
 - [ ] Buy bottle water
 - [ ] Buy judges refreshments
-- [ ] Order coffee
+  - Hand sanitizer
+  - Napkins
+  - Trail Mix
+  - Granola bars
+  - Bananas
+  - Muffins
+  - Donuts
+- [ ] Order coffee. Two travelers from Starbucks.
 - [ ] Print rosters
-- [ ] Team packets
+- [ ] Print Maps (# volunteers + 2 x # teams )
+- [ ] Assemble team packets
+  - Cover sheet with instructions
+  - Map
+  - Team roster x 2
+  - Badges
+  - Sharpie for writing on badges
+  - 2 Speech Evaluation Forms per team member
+  - 2 Interview Evaluation Forms per team member
 - [ ] Ask about Friday drop off
-- [ ] Print Maps
 - [ ] Volunteer Information email
 - [ ] Purchase Super Quiz moderator gift
 
