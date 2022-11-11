@@ -20,7 +20,7 @@ The tasks below are grouped by suggested due dates.
 - [ ] Create and send out [registration form](Registration.md)
 - [ ] Conduct & Release forms (State only)
 - [ ] Find a Super Quiz moderator
-- [ ] Print Tests. Recommend printing front and back. Pay for stapling.
+- [ ] [Print Tests](TestPrep.md)
 - [ ] Order [plaques](Awards.md#plaques)
 - [ ] Order [ribbons](Awards.md#ribbons)
 - [ ] Arrange reception treat (State only)
