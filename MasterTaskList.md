@@ -63,7 +63,7 @@ The tasks below are grouped by suggested due dates.
   - Trail Mix
   - Granola bars
   - Bananas
-  - Muffins
+  - Mini-muffins
   - Donuts
 - [ ] Order coffee. Two travelers from Starbucks.
 - [ ] Print rosters
@@ -76,6 +76,8 @@ The tasks below are grouped by suggested due dates.
   - Sharpie for writing on badges
   - 2 Speech Evaluation Forms per team member
   - 2 Interview Evaluation Forms per team member
+- [ ] Print Super Quiz answer sheets and load clipboards
+- [ ] Update and print Super Quiz script
 - [ ] Ask about Friday drop off
 - [ ] Volunteer Information email
 - [ ] Purchase Super Quiz moderator gift
