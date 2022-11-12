@@ -74,4 +74,7 @@
   * Collect leftover supplies
   * Move furniture back
 * 1:30 p.m. – 3:00 p.m. Testing Session 3
+* Only after completion of the morning testing session can scanning start.
+After lunch everyone has completed speech/inter and the four morning objective tests.
+[Bubble Sheet Scanner Instructions](BubbleSheetScanner.md)
 * 3:30 p.m. Oral Super Quiz
