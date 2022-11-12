@@ -43,8 +43,23 @@
 * 8:00 a.m. Judges Training
 * 8:15 a.m. Team Registration
 * 9:00 a.m. – 10:45 a.m. Speech/Interview and Testing Session 1
+  * 09:00 a.m. Speech/Interview slot
+  * 09:15 a.m. Speech/Interview slot
+  * 09:30 a.m. Speech/Interview slot
+  * 09:45 a.m. Speech/Interview slot
+  * 10:00 a.m. Speech/Interview slot
+  * 10:15 a.m. Speech/Interview slot
+  * Speech/Interview always starts late, so this empty slot provides a cushion in the schedule
 * Between sessions judges can return to the training room for refreshments
 * 11:00 a.m. – 1:00 p.m. Speech/Interview and Testing Session 2
+  * Cushion for objective testing starting late
+  * 11:15 a.m. Speech/Interview slot
+  * 11:30 a.m. Speech/Interview slot
+  * 11:45 a.m. Speech/Interview slot
+  * 12:00 p.m. Speech/Interview slot
+  * 12:15 p.m. Speech/Interview slot
+  * 12:30 p.m. Speech/Interview slot
+  * 12:45 p.m. Speech/Interview slot
 * Verify Super Quiz setup
   * Microphone check
   * Computer and projector check
