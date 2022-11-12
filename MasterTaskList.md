@@ -69,7 +69,7 @@ The tasks below are grouped by suggested due dates.
 - [ ] Print rosters
 - [ ] Print Maps (# volunteers + 2 x # teams )
 - [ ] Assemble team packets
-  - Cover sheet with instructions
+  - [Cover sheet with instructions](TeamPackets.md)
   - Map
   - Team roster x 2
   - Badges
