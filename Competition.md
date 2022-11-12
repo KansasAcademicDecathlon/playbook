@@ -10,9 +10,11 @@
 * Classrooms for objective testing in the morning and afternoon.
   * Must have projectors for art objective test.
   * Nice to have sound for music test (can request non-listening questions).
+  * Ideally seating to accommodate every-other occupancy
 * Classrooms for speech/interview in the morning.
-* Place for student lunch (often the cafeteria).
+* Team Meeting Area/student area (often the cafeteria).
 * Auditorium in the afternoon for Super Quiz.
+  * Capacity for all participants and some guests.
   * Computer with projector for PowerPoint quiz presentation.
   * One microphone for the on-stage moderator.
   * One for timer/computer operator (can be in the booth).
