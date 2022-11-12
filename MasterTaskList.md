@@ -79,7 +79,7 @@ The tasks below are grouped by suggested due dates.
 - [ ] Print Super Quiz answer sheets and load clipboards
 - [ ] Update and print Super Quiz script
 - [ ] Ask about Friday drop off
-- [ ] Volunteer Information email
+- [ ] [Volunteer Information email](Volunteers.md)
 - [ ] Purchase Super Quiz moderator gift
 
 ## After competition
