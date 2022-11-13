@@ -30,6 +30,7 @@
 * Pick up coffee en route to venue
 * 7:00 a.m. Setup
   * Bring in supplies to HQ
+  * Post yard sign if needed
   * Verify all needed classrooms are unlocked
   * Hang signage on classroom doors with room names (Speech 1, Testing B, etc.)
   * Put supplies in objective testing rooms
@@ -75,6 +76,16 @@
   * Move furniture back
 * 1:30 p.m. – 3:00 p.m. Testing Session 3
 * Only after completion of the morning testing session can scanning start.
-After lunch everyone has completed speech/inter and the four morning objective tests.
+After lunch everyone has completed speech, interview, and the four morning objective tests.
 [Bubble Sheet Scanner Instructions](BubbleSheetScanner.md)
 * 3:30 p.m. Oral Super Quiz
+* Close out objective testing rooms
+  * Collect unused answer sheets
+  * Collect unused math scratch paper
+  * Remove proctor directions with Art and Music discs
+* Collect all the printed tests (used and unused) and pack
+* Pack used math scratch paper with tests
+* Group the answer sheets by subject and pack with the tests
+* Remove banner from registration table
+* Remove signage on classroom doors
+* Bring in yard sign
