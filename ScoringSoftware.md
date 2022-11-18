@@ -13,6 +13,47 @@ See <https://scoring.usad.org/Setup/ImportCoachExample> for more details.
 **Note:** Speech Room, Speech Time, Interview Room,Interview Time, Testing Room, Test Seat,
 Essay Room can be the same for every student. Those fields need to be unique if using the PC scoring software for generating schedules.
 
+## Answer Key Transformation
+
+USAD provides the answers to the objective tests in a Word document.
+
+1. Create a new `AnswerKey.csv` file for this contest. Note that the `Essay` line is used in the state competition.
+
+   `Art,4,50,20,1000,`
+   \
+   `Music,2,50,20,1000,`
+   \
+   `Mathematics,5,35,28.57,1000,`
+   \
+   `Economics,6,50,20,1000,`
+   \
+   `Literature,1,50,20,1000,`
+   \
+   `Science,11,50,20,1000,`
+   \
+   `Social Science,3,50,20,1000,`
+   \
+   `Essay,7,2,1000,1000,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,`
+   \
+   `Speech,8,11,1000,1000,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,`
+   \
+   `Interview,9,10,1000,1000,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,`
+
+1. Open the answer key Word document.
+1. Open a blank [Notepad++](https://notepad-plus-plus.org/) document.
+1. For each test
+   1. In Word, select the two columns containing the answers, including the Roman numerals and numbers. Copy the selection to the clipboard.
+   1. Switch to Notepad++ and paste the text.
+   1. Delete blank lines at question 25 (if present).
+   1. From the *Search* menu, select *Replace*. The Replace dialoge appears.
+   1. In the *Find what:* field paste `[0-9]{1,2}.[ \t]*([A-E]).*(?:\R|\z)`
+   1. In the *Replace with:` field paste `$1,`
+   1. Under *Search Mode*, select the *Regular Expression* radio button.
+   1. Click the *Replace All* button.
+   1. Delete the last comma.
+   1. Paste the resulting line into the matching line of the `AnswerKey.csv` file.
+
+
 ## Setting up a contest
 
 1. Go to the [Scoring Website](https://scoring.usad.org/) and Log in (link in the upper right).
