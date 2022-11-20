@@ -100,11 +100,18 @@ The software allows for uploading the file multiple times without creating dupli
 
 ## Importing Results
 
-1. Open the USAD Scoring Software on the PC and login. Verify the current contest is listed as the title of the window.
+1. Open the USAD Scoring Software on the PC and login. Verify the title of the window is the current contest.
 1. From the *Setup* menu, select *Import*.
 1. From the *Import Changes* screen, check the *Objective Answers* box.
-1. Click the *Browse* button, select the *objectiv.txt* [downloaded from the USAD Testing website](./OnlineTesting.md#download-objective-answers-and-keys), and click the *Upload* button.
-1. Check the *Essay Answers* box and repeat with the *Essay.txt* file. See [Scoring Essays](./OnlineTesting.md#scoring-essays) for details.
+1. Click the *Browse* button, select the *objectiv.txt*, either [downloaded from the USAD Testing website](./OnlineTesting.md#download-objective-answers-and-keys) or [exported from the scanning software](BubbleSheetScanner.md#exporting-to-scoring-software), and click the *Upload* button.
+If the scoring software reports a missing student, the student ID is probably incorrect on the bubble sheet.
+Go back to the scanner software and look for incorrect student IDs in the combined data.
+Sort by `ID` to quickly find IDs missing tests.
+Fixing the ID in the scanner file (versus the combined file) for that test is recommended.
+Then export the combined data again.
+1. Check the *Speech Answers* box and repeat with the *Speech.txt* file.
+1. Check the *Interview Answers* box and repeat with the *Interview.txt* file.
+1. Check the *Essay Answers* box and repeat with the *Essay.txt* file. See [Scoring Online Essays](./OnlineTesting.md#scoring-essays) for details.
 
 ## Generating Reports
 
