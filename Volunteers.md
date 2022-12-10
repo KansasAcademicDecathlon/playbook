@@ -14,10 +14,10 @@ Body:
 >
 > Thank you for volunteering your time for Academic Decathlon. Please arrive at 8:00 am Saturday for orientation at
 >
-> *School Name*
+> `<School Name>`
 >
-> *School Address*
+> `<School Address>`
 >
-> *Your Signature*
+> `<Your Signature>`
 >
 > Kansas Academic Decathlon
