@@ -53,7 +53,7 @@ The tasks below are grouped by suggested due dates.
   - Procedure and Speech At A Glance
   - Index cards, pencils, and a timer/phone
 - [ ] Create Art DVDs or USB flash drives
-- [ ] Create Music CDs or USB flash drives
+- [ ] Create Music CDs or USB flash drives (can use the same drive as Art)
 - [ ] Proctor instruction packets
   - Instructions with test numbers and times
 - [ ] Buy bottle water
