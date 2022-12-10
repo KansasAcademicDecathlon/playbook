@@ -8,7 +8,7 @@ For state, in addition to the above medals, the top three teams receive medals f
 Kansas schools get custom Kansas medals.
 Missouri schools get plain medals.
 
-Reorder information for Crown Awards](<http://www.crownawards.com/>):
+Reorder information for [Crown Awards](<http://www.crownawards.com/>):
 > 1 3/4" TORCH MEDAL GOLD
 > 7/8"x30" RED/WHITE/BLUE Ribbon
 
