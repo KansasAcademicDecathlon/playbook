@@ -117,7 +117,7 @@ Then export the combined data again.
 
 **Note:** All exported files are located in `<USAD Scoring Software Directory>\ReportsExport\Kansas`, with subfolders for each team.
 
-1. Open the USAD Scoring Software on the PC and login. Verify the current contest is listed as the title of the window.
+1. Open the USAD Scoring Software on the PC and login. Verify the title of the window is the current contest.
 1. From the *Scoring* menu, select *Scores Maintenance*.
 1. Click the *Find Divergence* button. This must be performed if any essay scores are changed.
 1. Close the *Missing/Divergent Scores* window by clicking on the icon next to the *File* menu and clicking *Close*.
