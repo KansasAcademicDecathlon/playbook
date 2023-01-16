@@ -75,6 +75,7 @@
   * Collect leftover supplies
   * Move furniture back
 * 1:30 p.m. – 3:00 p.m. Testing Session 3
+* 2:00 p.m. Coaches meeting (State only)
 * Only after completion of the morning testing session can scanning start.
 After lunch everyone has completed speech, interview, and the four morning objective tests.
 [Bubble Sheet Scanner Instructions](BubbleSheetScanner.md)
@@ -82,7 +83,7 @@ After lunch everyone has completed speech, interview, and the four morning objec
 * Close out objective testing rooms
   * Collect unused answer sheets
   * Collect unused math scratch paper
-  * Remove proctor directions with Art and Music discs
+  * Remove proctor directions with Art and Music media
 * Collect all the printed tests (used and unused) and pack
 * Pack used math scratch paper with tests
 * Group the answer sheets by subject and pack with the tests
