@@ -9,7 +9,7 @@ The tasks below are grouped by suggested due dates.
 ## August
 
 - [ ] Sign USAD Charter
-- [ ] Determine Venue
+- [ ] Determine Venue (see [requirements](Competition.md#requirements))
 - [ ] Contact USAD to set up online testing
 - [ ] Order answer sheets
 - [ ] Shop for lunch options
