@@ -23,7 +23,6 @@ The tasks below are grouped by suggested due dates.
 - [ ] [Print Tests](TestPrep.md)
 - [ ] Order [plaques](Awards.md#plaques)
 - [ ] Order [ribbons](Awards.md#ribbons)
-- [ ] Arrange reception treat (State only)
 - [ ] Replenish name tags. Recommend stacks of singles.
 - [ ] Buy notecards
 - [ ] Math scratch paper. Typically bright colored paper (Astrobrights).
