@@ -22,10 +22,10 @@ The tasks below are grouped by suggested due dates.
 - [ ] Find a Super Quiz moderator
 - [ ] [Print Tests](TestPrep.md)
 - [ ] Order [plaques](Awards.md#plaques)
-- [ ] Order [ribbons](Awards.md#ribbons)
-- [ ] Replenish name tags. Recommend stacks of singles.
+- [ ] Replenish [ribbons](Awards.md#ribbons)
+- [ ] Replenish name tags (recommend stacks of singles)
 - [ ] Buy notecards
-- [ ] Math scratch paper. Typically bright colored paper (Astrobrights).
+- [ ] Buy math scratch paper (Astrobrights or similar)
 - [ ] Replenish blue painters tape for hanging signage
 - [ ] Replenish large (2") binder clips for team packets
 
@@ -38,8 +38,8 @@ The tasks below are grouped by suggested due dates.
 
 ## T-1 day to competition
 
-- [ ] Dole out objective answer sheets. Recommend bunches of 10 using paperclips.
-- [ ] Dole out tests by room by time. One morning pile and one afternoon pile per room.
+- [ ] Dole out objective answer sheets (recommend bunches of 10 using paperclips)
+- [ ] Dole out tests by room by time (one morning pile and one afternoon pile per room)
 - [ ] Speech & Interview judges packets
   - Address capture sheet
   - Instructions/Script for head judge & timer
@@ -64,7 +64,7 @@ The tasks below are grouped by suggested due dates.
   - Bananas
   - Mini-muffins
   - Donuts
-- [ ] Order coffee. Two travelers from Starbucks.
+- [ ] Order coffee (two travelers from Starbucks)
 - [ ] Print rosters
 - [ ] Print Maps (# volunteers + 2 x # teams )
 - [ ] Assemble team packets
