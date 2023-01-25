@@ -10,8 +10,9 @@
 * Classrooms for objective testing in the morning and afternoon.
   * Must have projectors for art objective test.
   * Nice to have sound for music test (can request non-listening questions).
-  * Ideally seating to accommodate every-other occupancy
+  * Ideally seating to accommodate every-other occupancy.
 * Classrooms for speech/interview in the morning.
+  * Need 1 classroom per 13 participants (rounded up). That averages to a classroom a team for state if every school brings a full team.
 * Team Meeting Area/student area (often the cafeteria).
 * Auditorium in the afternoon for Super Quiz.
   * Capacity for all participants and some guests.
