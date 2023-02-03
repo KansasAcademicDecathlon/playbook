@@ -8,13 +8,13 @@
 1. Open pdfEdit995
 1. Select the Combine/Extract tab.
 1. Click *Combine existing PDFs...*
-1. Add the cover sheet then the test PDF
+1. Add the cover sheet then the test PDF. Double check the directory as the default is last used (which is probably the last competition).
 1. Save the result as `Printable XX.pdf` where `XX` is the test file name (e.g. `Printable Social Science Round 2 v.2 19-20.pdf`)
 1. Verify the math test does not contain answers. USAD provides a PDF of the math test with answers.
 
 ## Print Job
 
-I have emailed The UPS Store for printing objective tests.
+I have emailed The UPS Store for printing objective tests. I usually order a few extra tests.
 
 Subject: Academic Decathlon Print Order
 
