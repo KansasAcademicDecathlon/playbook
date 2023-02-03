@@ -88,6 +88,7 @@ The tasks below are grouped by suggested due dates.
 - [ ] Pay for lunch
 - [ ] Send checks to Bruce
 - [ ] Send out awards
+- [ ] Shread previous years test materials
 
 ## 1 week after competition
 

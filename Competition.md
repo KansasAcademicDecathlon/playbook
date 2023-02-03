@@ -91,3 +91,5 @@ After lunch everyone has completed speech, interview, and the four morning objec
 * Remove banner from registration table
 * Remove signage on classroom doors
 * Bring in yard sign
+
+Store the test materials (tests, match scratch paper, note cards, answer sheets) for one year.
