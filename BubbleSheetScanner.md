@@ -42,6 +42,9 @@ Note: the scanner does not need to be connected for the following procedure.
 1. Export Interview
    1. Same steps as speech, but use the interview saved file.
    1. Copy the `C:\Program Files\USADEvents\Database\Intrview.txt` file with the `Speech.txt` file.
+1. Export Essay
+   1. Same steps as speech, but use the essay saved file.
+   1. Copy the `C:\Program Files\USADEvents\Database\Intrview.txt` file with the `Essay.txt` file.
 1. Export Objevtive
    1. Start the DataLink software as administrator.
    1. From the `File` menu, select `Combine Tests`.
