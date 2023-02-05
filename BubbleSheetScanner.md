@@ -25,6 +25,15 @@ Run the scanning software as administrator as the USAD exporting plugin writes t
 
 After scanning a test, always close and reopen the scanner software. Otherwise, the scanner may use the wrong form (switching from Interview to objective).
 
+## Scanning Tips
+
+If `PAPER SKEW......` occurs multiple times, try placing your nails against the bottom of the sheet while feeding.
+
+`Multiple Marks Question ##` - use correction tape to cover all the marks if there are umambigiously multiple marks.
+If the message is due to an clear erasure, then use correction take to cover the erasure.
+
+`All Ratings Must be Completed` - Check that all bubbles are completely filled in.
+
 ## Exporting to Scoring Software
 
 The [procedure above](#scanning-procedure) saved each event as an individual file.
@@ -56,12 +65,3 @@ Note: the scanner does not need to be connected for the following procedure.
    1. Copy the `C:\Program Files\USADEvents\Database\Objectiv.txt` file with the `Speech.txt` file.
 
 Now [import those results](ScoringSoftware.md#importing-results) into the scoring software.
-
-## Scanning Tips
-
-If `PAPER SKEW......` occurs multiple times, try placing your nails against the bottom of the sheet while feeding.
-
-`Multiple Marks Question ##` - use correction tape to cover all the marks if there are umambigiously multiple marks.
-If the message is due to an clear erasure, then use correction take to cover the erasure.
-
-`All Ratings Must be Completed` - Check that all bubbles are completely filled in.
