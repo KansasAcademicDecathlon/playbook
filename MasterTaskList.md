@@ -80,6 +80,12 @@ The tasks below are grouped by suggested due dates.
 - [ ] Ask about Friday drop off
 - [ ] [Volunteer Information email](Volunteers.md)
 - [ ] Purchase Super Quiz moderator gift
+- [ ] Print signage
+- [ ] Print essay responce guidelines (state only)
+
+## Competition
+
+See [Saturday Schedule](Competition.md#saturday)
 
 ## After competition
 

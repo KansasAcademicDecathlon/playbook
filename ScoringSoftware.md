@@ -149,4 +149,4 @@ Use the following steps to determine which essays require an additional read.
 1. From the *Individual Ranking* section, select *Top Scorers By Event*, and click *Export By Individual*.
 1. From the *Team Comprehensive* section, select *Comprehensive Final Team Report*, and click *Export by Team*.
 
-Review each *Comprehensive Final Team Report* for discrepancies before sending out to coaches.
+Review each *Comprehensive Final Team Report* for discrepancies (e.g. missing scores) before sending out to coaches.
