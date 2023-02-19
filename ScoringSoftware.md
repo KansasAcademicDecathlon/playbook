@@ -47,12 +47,11 @@ USAD provides the answers to the objective tests in a Word document.
    1. Delete blank lines at question 25 (if present).
    1. From the *Search* menu, select *Replace*. The Replace dialoge appears.
    1. In the *Find what:* field paste `[0-9]{1,2}.[ \t]*([A-E]).*(?:\R|\z)`
-   1. In the *Replace with:` field paste `$1,`
+   1. In the *Replace with:* field paste `$1,`
    1. Under *Search Mode*, select the *Regular Expression* radio button.
    1. Click the *Replace All* button.
    1. Delete the last comma.
    1. Paste the resulting line into the matching line of the `AnswerKey.csv` file.
-
 
 ## Setting up a contest
 
@@ -62,7 +61,7 @@ USAD provides the answers to the objective tests in a Word document.
 1. Name the contest and click *Create Contest*.
 Upon completion, the page automatically goes back to the *Select Contest* page.
 1. From the *Contests* list, select the newly created contest and click *Change Contest*.
-1. From the *Contest Maintenance* page, fill out *Organization Name* and *Theme*.
+1. From the *Contest Maintenance* page, fill out *Organization Name*, *Theme*, *Start Date*, and *End Date*.
 Leave all other fields with their default values.
 1. Click the *Update* button.
 1. Open the USAD Scoring Software on the PC.
@@ -76,26 +75,28 @@ Leave all other fields with their default values.
 1. At the *Select the Contest* window, select the recently created contest and click *Submit*.
 1. From the *Setup* menu, select *Import*.
 1. From the *Import Changes* screen, check the *Teams* box.
-1. Click the *Browse* button, select the *TeamsImportData.csv* file from the computer, and click the *Upload* button.
+1. Click the *Browse* button, select the *TeamsImportData.csv* file from the computer, and click the *Upload* button. Double check the directory as the default is the last competition.
 If the upload encounters an error, make sure the file is not open in Excel.
 1. Check the *Coach* box and repeat the above step with the *CoachImport.csv* file.
 1. Check the *Student* box and repeat with the *StudentRooms.csv* file.
 If there is an error uploading a certain student, ensure the student has valid rooms and times.
 Attempt the upload again after making corrections.
 The software allows for uploading the file multiple times without creating duplicates.
-1. Check the *Test* box and repeat with the *answerkeyonline.txt* file [downloaded from the USAD Testing website](./OnlineTesting.md#download-objective-answers-and-keys).
+1. Check the *Test* box and repeat.
+   - If from an online competition use the *answerkeyonline.txt* file [downloaded from the USAD Testing website](./OnlineTesting.md#download-objective-answers-and-keys).
+   - If from an in-person competition use the *AnswerKey.csv* [created ealier](#answer-key-transformation).
 1. Close the *Import Changes* window by clicking on the icon next to the *File* menu and clicking *Close*.
 1. From the *Setup menu*, select *Test*.
-1. The Essay test is missing because it was not part of the *answerkeyonline.txt* file. Click *Add New* to add the test.
-   * Name: Essay
-   * Number: 7
-   * Test Type: Essay
-   * Scanner: Apperson
-   * Abbreviation: Essay
-   * Total Questions: 2
-   * Total Points: 1000
-   * Points Per Question: 1000
-   * Multiplier: 1.0
+1. If importing from online tests, the Essay test is missing because it was not part of the *answerkeyonline.txt* file. Click *Add New* to add the test.
+   - Name: Essay
+   - Number: 7
+   - Test Type: Essay
+   - Scanner: Apperson
+   - Abbreviation: Essay
+   - Total Questions: 2
+   - Total Points: 1000
+   - Points Per Question: 1000
+   - Multiplier: 1.0
 1. Close the *Test Page* window by clicking on the icon next to the *File* menu and clicking *Close*.
 
 ## Importing Results
@@ -113,14 +114,35 @@ Then export the combined data again.
 1. Check the *Interview Answers* box and repeat with the *Interview.txt* file.
 1. Check the *Essay Answers* box and repeat with the *Essay.txt* file. See [Scoring Online Essays](./OnlineTesting.md#scoring-essays) for details.
 
+## Checking Essay Scores
+
+Essay scores are considered divergeent if they differ by more than 200 points.
+
+### Finding Divergent
+
+Use the following steps to determine which essays require an additional read.
+
+1. Open the USAD Scoring Software on the PC and login. Verify the title of the window is the current contest.
+1. From the *Scoring* menu, select *Scores Maintenance*.
+1. Check the box next to *Essay*.
+1. Ensure the box next to *Missing/Divergent* is checked.
+1. Click the *Find Divergence* button. This must be performed if any essay scores are changed.
+1. Make note of any essays that need an additional read. Ignore any participants with no valid scores.
+1. Close the *Missing/Divergent Scores* window by clicking on the icon next to the *File* menu and clicking *Close*.
+
+### Additional Read
+
+1. Get another volunteer to score each essay in the divergent list.
+1. Open the *Essay.txt* file with a text editor (Notepad or Notepad++).
+1. For each new score, add a line in the following format: `E,<Student ID>,,<Judge>,<Total for A>,<Total for B>,<Off Prompt>,<Nonscorable>`. Example: `E,1505,,5, 78, 63, , `. Notice the leading spaces for totals less than 100. If the essay is not off prompt or not nonscorable, those fields are spaces.
+1. Follow [Importing Results](#importing-results) to reimport the scores. The scoring software handles importing the same scores multiple times.
+1. [Check for divergent scores](#finding-divergent) again. Some essays may require a fourth read.
+
 ## Generating Reports
 
 **Note:** All exported files are located in `<USAD Scoring Software Directory>\ReportsExport\Kansas`, with subfolders for each team.
 
 1. Open the USAD Scoring Software on the PC and login. Verify the title of the window is the current contest.
-1. From the *Scoring* menu, select *Scores Maintenance*.
-1. Click the *Find Divergence* button. This must be performed if any essay scores are changed.
-1. Close the *Missing/Divergent Scores* window by clicking on the icon next to the *File* menu and clicking *Close*.
 1. From the *Reports* menu, select *Post-Competition*.
 1. From the *Team Reports* section, select *Overall Team Scores*, and click *Export By Team*.
 1. From the *Individual Ranking* section, select *Top Scorers for Decathlon*, and click *Export Individual*.
