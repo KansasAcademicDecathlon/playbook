@@ -94,11 +94,12 @@ See [Saturday Schedule](Competition.md#saturday)
 - [ ] Pay for lunch
 - [ ] Send checks to Bruce
 - [ ] Send out awards
+- [ ] Ask for winning teams enrollment numbers
 - [ ] Shread previous years test materials
 
 ## 1 week after competition
 
 - [ ] Missing payment follow up
 - [ ] Inventory answer sheets
-- [ ] Fill out Nationals Intent to Participate & State Competition Results Form (State only)
+- [ ] Fill out [Nationals Intent to Participate & State Competition Results Form](https://usad.org/competitions/USAD-Nationals/state-directors.aspx) (State only)
 - [ ] Send out [scholarships](Scholarships.md) (State only)
